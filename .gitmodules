@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "bumphunter"]
-	path = bumphunter
-	url = https://github.com/rafalab/bumphunter
-	shallow = true
-	registered = true
