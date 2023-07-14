@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "affycomp"]
+	path = affycomp
+	url = https://github.com/rafalab/affycomp
 [submodule "bumphunter"]
 	path = bumphunter
 	url = https://github.com/rafalab/bumphunter
